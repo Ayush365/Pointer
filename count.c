@@ -21,3 +21,6 @@ int main()
         printf("vovels=%d\t consonents=%d\t ",v,c);
     return 0;
 }
+
+/*Enter a string: ayush
+vovels=2         consonents=3 */
